@@ -196,7 +196,7 @@ class ResultScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  '$index. $questionText', // Номер и текст вопроса
+                  '${index+1}. $questionText', // Номер и текст вопроса
                   style: const TextStyle(fontWeight: FontWeight.bold),
                 ),
                 const SizedBox(height: 5),
