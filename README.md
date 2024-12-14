@@ -1,8 +1,9 @@
 # PumpkinApp-Interface
 **PumpkinApp** is a mobile application designed to help users improve their English language skills. The app allows users to generate personalized quizzes based on video content they choose.
+**PumpkinApp-Interface** depends on [PumpkinApp-Backend](https://github.com/leonorino/PumpkinApp-Backend). 
 
 ## Owerview
-PumpkinApp Interface empowers users with the following features:
+PumpkinApp empowers users with the following features:
 1. **Video-based Learning**: Users can input a link to a YouTube video.
 2. **Custom Quiz Generation**: Select the types of questions and the number of questions you want.
 3. **Interactive Testing**: The app generates a quiz based on the video's transcript.
@@ -23,8 +24,8 @@ To run the PumpkinApp Interface locally, follow these steps:
 Ensure you have the following installed:
 * [Flutter](https://flutter.dev/) (version >= 3.0)
 * Dart SDK
-* A code editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
 ### Installation
+0. Ensure than PumpkinApp Backend is [running](https://github.com/leonorino/PumpkinApp-Backend/blob/main/README.md)
 1. Clone the repository:
    ```
    git clone https://github.com/ellohar/PumpkinApp-Interface.git
@@ -37,7 +38,7 @@ Ensure you have the following installed:
    ```
    flutter pub get
    ```
-7. Run the app:
+7. Run the app on emulated device or in browser:
    ```
    flutter run
    ```
