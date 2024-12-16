@@ -2,7 +2,7 @@
 **PumpkinApp** is a mobile application designed to help users improve their English language skills. The app allows users to generate personalized quizzes based on video content they choose.
 **PumpkinApp-Interface** depends on [PumpkinApp-Backend](https://github.com/leonorino/PumpkinApp-Backend). 
 
-## Owerview
+## Overview
 PumpkinApp empowers users with the following features:
 1. **Video-based Learning**: Users can input a link to a YouTube video.
 2. **Custom Quiz Generation**: Select the types of questions and the number of questions you want.
