@@ -46,3 +46,9 @@ Ensure you have the following installed:
 ## Technologies Used
 * **Flutter**: A powerful framework for building cross-platform mobile applications.
 * **Dart**: A modern programming language optimized for UI development.
+
+## Demo
+![screen_1](https://github.com/user-attachments/assets/7e14cac0-27e8-4cee-98e2-d35173949d81)
+![screen_2](https://github.com/user-attachments/assets/40869ad7-3bb5-4945-a095-4ce18b9eac81)
+![screen_3](https://github.com/user-attachments/assets/54aa4808-e77f-4ca3-8323-6a86214456a6)
+
